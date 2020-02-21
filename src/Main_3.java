@@ -20,7 +20,7 @@ public class Main_3 {
                     int tmp = matrix[j];
                     matrix[j] = matrix[j + 1];
                     matrix[j + 1] = tmp;
-                }
+                }//I wrote code
             }
         }
         output(matrix);
